@@ -10137,5 +10137,9 @@ section.resume-section .resume-section-content {
 }
 
 img.language-icon {
-  padding-bottom: 0.8rem;
+  display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -.125em;
 }

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="62.3409mm" height="70.4949mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6409 7247"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#6C757D}
+    .fil2 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1765161103248">
+   <path class="fil0" d="M3457 70l1350 779 1340 774c166,96 262,264 262,459l0 1542 0 1541c0,196 -96,364 -262,460l-1340 773 -1350 780c-161,93 -343,93 -504,0l-1351 -780 -1340 -773c-166,-96 -262,-264 -262,-460l0 -1541 0 -1542c0,-195 96,-363 262,-459l1340 -774 1351 -779c161,-93 343,-93 504,0z"/>
+   <path class="fil1" d="M4135 4155c-184,325 -533,544 -934,544 -592,0 -1073,-480 -1073,-1072 0,-592 481,-1072 1073,-1072 399,0 746,217 931,539"/>
+   <path class="fil1" d="M5071 4702c-373,641 -1067,1072 -1863,1072 -1189,0 -2153,-964 -2153,-2154 0,-1190 964,-2155 2153,-2155 799,0 1497,436 1868,1082"/>
+   <line class="fil1" x1="4135" y1="4155" x2="5074" y2= "4704" />
+   <line class="fil1" x1="4131" y1="3095" x2="5080" y2= "2545" />
+   <path class="fil1" d="M4876 3504l0 -239 239 0 0 239m0 239l0 239 -239 0 0 -239"/>
+   <path class="fil1" d="M4876 3743l-238 0 0 -239 238 0m239 0l240 0 0 239 -240 0"/>
+   <path class="fil1" d="M5772 3505l0 -239 239 0 0 239m0 239l0 238 -239 0 0 -238"/>
+   <path class="fil1" d="M5772 3744l-238 0 0 -239 238 0m239 0l240 0 0 239 -240 0"/>
+   <path class="fil2" d="M3201 4699c-592,0 -1073,-480 -1073,-1072 0,-592 481,-1072 1073,-1072 399,0 746,217 931,539l944 -547c-371,-646 -1069,-1082 -1868,-1082 -1189,0 -2153,965 -2153,2155 0,1190 964,2154 2153,2154 796,0 1490,-431 1863,-1072l-936 -547c-184,325 -533,544 -934,544z"/>
+   <polygon class="fil2" points="4638,3743 4876,3743 4876,3982 5115,3982 5115,3743 5355,3743 5355,3504 5115,3504 5115,3265 4876,3265 4876,3504 4638,3504 "/>
+   <polygon class="fil2" points="5534,3505 5534,3744 5772,3744 5772,3982 6011,3982 6011,3744 6251,3744 6251,3505 6011,3505 6011,3266 5772,3266 5772,3505 "/>
+  </g>
+ </g>
+</svg>
