@@ -10135,3 +10135,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+img.language-icon {
+  padding-bottom: 12px;
+}
